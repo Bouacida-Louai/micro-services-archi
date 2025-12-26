@@ -6,5 +6,6 @@
     <file url="file://$PROJECT_DIR$/../gateway-service/gateway-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../inventory-service/inventory-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../order-service/order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../microservices-project/billing-service (1)/billing-service/src/main/java" charset="UTF-8" />
   </component>
 </project>
